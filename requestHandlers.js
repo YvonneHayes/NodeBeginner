@@ -7,4 +7,4 @@ function upload() {
 };
 
 exports.start = start;
-explorts.upload = upload;
+exports.upload = upload;
