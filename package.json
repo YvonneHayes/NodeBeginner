@@ -1,0 +1,24 @@
+{
+  "name": "nodebeginner",
+  "version": "1.0.0",
+  "description": "just cruising along with the book, learning all the things",
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YvonneHayes/NodeBeginner.git"
+  },
+  "author": "Yvonne Hayes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YvonneHayes/NodeBeginner/issues"
+  },
+  "homepage": "https://github.com/YvonneHayes/NodeBeginner#readme"
+}
